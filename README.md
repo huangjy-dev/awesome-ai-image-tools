@@ -91,6 +91,14 @@ Provides AI image upscaling, denoising, sharpening, and restoration tools.
 
 ---
 
+### PhotoRestore.ai
+
+🔗 https://photorestore.ai
+
+AI-powered restoration of old and damaged photos — repairs scratches, tears, fading, and colorizes black-and-white images automatically.
+
+---
+
 # AI Image Upscalers
 
 Tools that increase image resolution using AI.
