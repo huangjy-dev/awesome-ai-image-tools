@@ -121,6 +121,16 @@ Online photo editor with AI background remover and design tools.
 
 ---
 
+# AI Virtual Try-On Tools
+
+### HairWow
+
+🔗 https://www.gohairwow.com
+
+AI hairstyle and beard try-on tool for previewing haircuts, colors, and style directions on your own photo before a salon or barber visit.
+
+---
+
 # Contributing
 
 Contributions are welcome!
@@ -149,4 +159,3 @@ This repository aims to create a **curated collection of the best AI image editi
 # License
 
 MIT License
-
