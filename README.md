@@ -121,6 +121,14 @@ Online photo editor with AI background remover and design tools.
 
 ---
 
+### Pixflux.AI
+
+🔗 https://pixflux.ai
+
+AI photo editor for e-commerce product images, including background removal, object removal, watermark removal, image enhancement, and upscaling.
+
+---
+
 # Contributing
 
 Contributions are welcome!
