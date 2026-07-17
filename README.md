@@ -121,6 +121,14 @@ Online photo editor with AI background remover and design tools.
 
 ---
 
+### RunAPI GPT Image 2 SDK
+
+🔗 https://github.com/runapi-ai/gpt-image-2-sdk
+
+SDK for GPT Image 2 image generation workflows.
+
+---
+
 # Contributing
 
 Contributions are welcome!
