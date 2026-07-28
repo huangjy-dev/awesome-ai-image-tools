@@ -103,6 +103,18 @@ AI-powered image upscaling tool that improves image resolution and quality.
 
 ---
 
+# AI Image Generation
+
+Tools that create new images from text prompts using generative AI.
+
+### GPT Image 2
+
+🔗 https://gptimage2.asia/
+
+Create and edit production-ready AI images for marketing, ecommerce, social media, and branded content.
+
+---
+
 # Online AI Photo Editors
 
 ### Pixlr
