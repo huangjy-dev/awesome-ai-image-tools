@@ -121,6 +121,14 @@ Online photo editor with AI background remover and design tools.
 
 ---
 
+### AIImageChanger.app
+
+🔗 https://aiimagechanger.app/
+
+Browser-based AI editor for changing backgrounds, objects, clothing, colors, and styles with plain-language prompts.
+
+---
+
 # Contributing
 
 Contributions are welcome!
@@ -149,4 +157,3 @@ This repository aims to create a **curated collection of the best AI image editi
 # License
 
 MIT License
-
